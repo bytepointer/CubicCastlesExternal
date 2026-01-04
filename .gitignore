@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+Debug/
+Release/
+x64/Debug/
+x64/Release/
+
+# C++ Intermediate
+*.obj
+*.pch
+*.pdb
+*.ipch
+*.aps
+*.iobj
+*.idb
+*.res
+*.tlh
+*.tli
+*.tmp
+
+# C# / .NET
+bin/
+obj/
+*.dll
+*.exe
+
+# Packages
+*.nupkg
+*.nuget/
