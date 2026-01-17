@@ -2,18 +2,18 @@
 
 - This project was made for educational purposes, and i do not take responsability for your use.
 
-## DOWNLOAD
+# DOWNLOAD
 
 - Compiled executable download in https://github.com/bytepointer/CubicCastlesExternal/releases
 
-## COMPILE PRE-REQUISITES
+# COMPILE PRE-REQUISITES
 
 - Visual Studio 2022 Installed;
 - Desktop development with C++ and .NET enabled;
 - Windows 10 or 11 SDK installed;
 - .NET Framework 4.7.2+ installed.
 
-## FEATURES
+# FEATURES
 
 - fly
 - no-clip
