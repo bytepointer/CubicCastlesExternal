@@ -16,4 +16,4 @@
 - anti hit
 
 # CONTACT
-- If you have any question or problem ask to me in my Discord: bytepointer
+- If you have any problems or questions, talk with me in Discord: bytepointer
