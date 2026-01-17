@@ -1,6 +1,6 @@
 # DISCLAIMER
 
-- This project was made for educational purposes and i do not take responsability of ur use.
+- This project was made for educational purposes, and i do not take responsability for your use.
 
 # COMPILE PRE-REQUISITES
 
