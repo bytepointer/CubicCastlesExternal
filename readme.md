@@ -2,6 +2,10 @@
 
 - This project was made for educational purposes, and i do not take responsability for your use.
 
+# DOWNLOAD
+
+- Compiled executable download in https://github.com/bytepointer/CubicCastlesExternal/releases
+
 # COMPILE PRE-REQUISITES
 
 - Visual Studio 2022 Installed;
