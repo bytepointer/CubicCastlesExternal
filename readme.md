@@ -4,7 +4,7 @@
 
 ## ⬇️ Download
 
-- Compiled executable download in https://github.com/bytepointer/CubicCastlesExternal/releases
+- Compiled executable download in https://github.com/bytepointer/ByteCastle/releases
 
 ## 🛠️ Compile Pre-Requisites
 
